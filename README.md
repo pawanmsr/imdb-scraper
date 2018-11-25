@@ -8,7 +8,7 @@ Overview
 --------
 
 This is a data collection program to collect movies data from IMDB.  
-The working of this program depends on the structure of the IMDB website and may not work if the website format of IMDB changes significatly in future.  
+The working of this program depends on the structure of the IMDB website and may not work if the website format of IMDB changes significantly in future.  
 Last Tested: November 25, 2018  
 
 Requirement
